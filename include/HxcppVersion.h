@@ -1,3 +1,3 @@
 #ifndef HXCPP_VERSION
-#define HXCPP_VERSION "4.3.12"
+#define HXCPP_VERSION "4.3.13"
 #endif
